@@ -1,0 +1,24 @@
+{
+    "name": "yyy/aliyun_api_gateway",
+    "description": "yyy's aliyun api gateway sdk",
+    "keywords": [
+        "yyy",
+        "aliyun",
+        "gateway"
+    ],
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "yyy",
+            "email": "jspeoplecom@sina.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0 || ^8.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "YYY\\Aliyun\\ApiGateWay\\": "src/"
+        }
+    }
+}
